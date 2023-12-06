@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "file:///media/fuse/drivefs-b7e0da69625bdaa117604945fcf79eb6/root/AydensSite/IMAGES/android-chrome-192x192.png",
+            "src": "/IMAGES/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "file:///media/fuse/drivefs-b7e0da69625bdaa117604945fcf79eb6/root/AydensSite/IMAGES/android-chrome-256x256.png",
+            "src": "/IMAGES/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
