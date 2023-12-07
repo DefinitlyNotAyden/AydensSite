@@ -1,1 +1,58 @@
+<!DOCTYPE html>
 
+<head>
+    <title>Arcade Games</title>
+</head>
+<body>
+    <div style="text-align: center">
+        <button onclick="location.href='https://dave-and-mike.github.io/game-off-2012/'" type="button">Alge's Escapade</button>
+        <button onclick="location.href='http://cykod.github.io/AlienInvasion/'" type="button">Alien Invasion</button>
+        <button onclick="location.href='http://stephank.github.io/arashi-js/'" type="button">Arashi</button>
+        <button onclick="location.href='http://dougmcinnes.com/html-5-asteroids/'" type="button">Asteroids</button>
+        <button onclick="location.href='http://avabranch.zolmeister.com/'" type="button">Avabranch</button>
+        <button onclick="location.href='http://ballandwall.com/'" type="button">Ball And Wall</button>
+        <button onclick="location.href='http://enclavegames.com/games/captain-rogers/'" type="button">Captin Rogers</button>
+        <button onclick="location.href='http://change-game.herokuapp.com/'" type="button">CHANG€</button>
+        <button onclick="location.href='http://shohan4556.github.io/jolly-jumper/'" type="button">Jolly Jumper</button>
+        <button onclick="location.href='http://www.varunpant.com/static/resources/CrappyBird/index.html'" type="button">Clumsy Bird</button>
+        <button onclick="location.href='http://projects.iarke.us/codenamelumberjack/'" type="button">Codename Lumberjack</button>
+        <button onclick="location.href='http://dommmel.github.com/coffee-snake/'" type="button">Coffee Snake</button>
+        <button onclick="location.href='http://hakim.se/experiments/html5/coil/'" type="button">Coil</button>
+        <button onclick="location.href='http://redbluegames.com/game-off-2013/'" type="button">Color Quest</button>
+        <button onclick="location.href='http://committer.meteor.com/'" type="button">Core Commiter</button>
+        <button onclick="location.href='http://ondras.github.io/custom-tetris/'" type="button">Custom Tetris</button>
+        <button onclick="location.href='http://d3shooter.herokuapp.com/'" type="button">d3shooter</button>
+        <button onclick="location.href='http://dreamshowadventures.github.io/LudumDare29/'" type="button">Drill Bunny</button>
+        <button onclick="location.href='http://mattsurabian.com/duckhunt/'" type="button">DuckHunt JS</button>
+        <button onclick="location.href='http://anirudhjoshi.github.com/fluid_table_tennis'" type="button">Fluid Table Tennis</button>
+        <button onclick="location.href='http://flixel.org/flxinvaders/'" type="button">FlxInvaders</button>
+        <button onclick="location.href='http://www.flixel.org/flxteroids/'" type="button">FlxTeroids</button>
+        <button onclick="location.href='http://adamatomic.com/graverobbers'" type="button">Grave Robbers</button>
+        <button onclick="location.href='http://games.myviews.pl/heal-em-all/'" type="button">Heal 'em All</button>
+        <button onclick="location.href='http://sdrdis.github.com/hotfix/'" type="button">HotFix</button>
+        <button onclick="location.href='http://hughsk.io/ludum-dare-27/'" type="button">hurry!</button>
+        <button onclick="location.href='http://razh.github.io/game-off-2013/'" type="button">Hyperspace Grabage Collector</button>
+        <button onclick="location.href='http://omarshehata.me/html/ludum/'" type="button">I Spy A Ghost</button>
+        <button onclick="location.href='http://awesome-interactive.github.io/game-off-2013/ExportedGame.html'" type="button">Jekyll & Hyde Collide</button>
+        <button onclick="location.href='http://jumpsuit.space/'" type="button">JumpSuit</button>
+        <button onclick="location.href='http://www.renegadeware.com/web_games/megagirl/'" type="button">Mega Girl</button>
+        <button onclick="location.href='http://www.adamatomic.com/mode/'" type="button">Mode</button>
+        <button onclick="location.href='http://candy-demo.enclavegames.com/'" type="button">Monster Wants Candy</button>
+        <button onclick="location.href='http://play.bci.im/newton_adventure/'" type="button">Newton Adventure</button>
+        <button onclick="location.href='http://ogoshen.github.io/game-off-2012/'" type="button">Octocat Jump</button>
+        <button onclick="location.href='http://arcade.lostdecadegames.com/onslaught_arena/'" type="button">Onslaught Arena</button>
+        <button onclick="location.href='http://khele.in/pappu-pakia/'" type="button">Pappu Pakia</button>
+        <button onclick="location.href='http://gregbatha.com/branches/'" type="button">PolyBranch</button>
+        <button onclick="location.href='http://js13kgames.com/games/save-the-forest/index.html'" type="button">Save The Forest</button>
+        <button onclick="location.href='http://basicallydan.github.com/skifree.js'" type="button">Ski Free</button>
+        <button onclick="location.href='http://diz.es/snake/'" type="button">Snake</button>
+        <button onclick="location.href='https://rabiroshan.github.io/snake_game/'" type="button">Snake_new</button>
+        <button onclick="location.href='http://couchfriends.com/games/5'" type="button">Space-Shooter</button>
+        <button onclick="location.href='http://mrrar.github.io/spashal/'" type="button">Spashal</button>
+        <button onclick="location.href='http://sqoff.com/'" type="button">Square Off!</button>
+        <button onclick="location.href='http://maettig.com/code/canvas/starship-sorades-13k/'" type="button">SORADES 13K</button>
+        <button onclick="location.href='http://strykerkkd.github.io/SpaceInvaders/'" type="button">Space Invaders</button>
+        <button onclick="location.href='http://martindrapeau.github.io/backbone-game-engine/super-mario-bros/index.html'" type="button">Super Mario Bros</button>
+    </div>
+</body>
+<html>
