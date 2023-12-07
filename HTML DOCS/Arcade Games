@@ -2,6 +2,7 @@
 
 <head>
     <title>Arcade Games</title>
+    <button onclick="location.href='index.html'" type="button">Home</button>
 </head>
 <body>
     <div style="text-align: center">
